@@ -14,7 +14,8 @@ A simple Python script that checks whether a given number is positive (or zero) 
 
 ```bash
 python is_positive.py
-‍‍‍```
+```
+
 ## 🖥️ Example
 
 insert number: -3
