@@ -39,6 +39,7 @@ Choose an operation:
   *  Multiplication
   /  Division
  what do you want? *
+
 please enter number 1: 4
 please enter number 2: 6
 the result is : 24.0
