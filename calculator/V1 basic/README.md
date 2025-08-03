@@ -38,6 +38,7 @@ Choose an operation:
   -  Subtraction
   *  Multiplication
   /  Division
+
  what do you want? *
 
 please enter number 1: 4
