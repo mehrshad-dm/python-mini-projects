@@ -22,3 +22,7 @@ The main function `calculate(a, b, what_to_do)` selects the appropriate operatio
 ```python
 result = calculate(4, 2, "exponentiation")
 print(result)  # Output: 16
+
+🧑‍💻 Author
+
+Made by Mehrshad as part of Python practice.
