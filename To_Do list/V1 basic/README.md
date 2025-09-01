@@ -10,7 +10,7 @@ It allows you to organize and manage your tasks easily.
 - Exit the application
 - 
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 
 Save tasks into a file (CSV/JSON)
 
@@ -21,7 +21,7 @@ Mark tasks as completed
 Improve the user interface
 
 
-📷 Example
+## 📷 Example
 
  Hello dear, Welcome to To_Do list application.
  
