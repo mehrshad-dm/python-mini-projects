@@ -10,6 +10,7 @@ It allows you to organize and manage your tasks easily.
 - Exit the application  
 
 🎯 Future Improvements
+
 Save tasks into a file (CSV/JSON)
 
 Load tasks from a file when the program starts
