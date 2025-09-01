@@ -7,7 +7,8 @@ It allows you to organize and manage your tasks easily.
 - Add new tasks  
 - Remove existing tasks  
 - Show all tasks  
-- Exit the application  
+- Exit the application
+- 
 
 🎯 Future Improvements
 
@@ -19,6 +20,7 @@ Mark tasks as completed
 
 Improve the user interface
 
+
 📷 Example
 
  Hello dear, Welcome to To_Do list application.
@@ -28,8 +30,11 @@ Improve the user interface
 What do you want?
 
 1.add task
+
 2.remove task
+
 3.show task
+
 4.exit app
 
 👨‍💻 Created by Mehrshad
