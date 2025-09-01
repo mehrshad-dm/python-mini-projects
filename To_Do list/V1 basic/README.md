@@ -19,6 +19,7 @@ Mark tasks as completed
 Improve the user interface
 
 📷 Example
+
  Hello dear, Welcome to To_Do list application.
  
  With this app, you can organize your tasks.
