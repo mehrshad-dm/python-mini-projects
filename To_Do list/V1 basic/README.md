@@ -20,8 +20,11 @@ Improve the user interface
 
 📷 Example
  Hello dear, Welcome to To_Do list application.
+ 
  With this app, you can organize your tasks.
+ 
 What do you want?
+
 1.add task
 2.remove task
 3.show task
