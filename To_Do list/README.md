@@ -24,11 +24,17 @@ No external libraries are needed. The program only uses the built-in `csv` modul
 
 ## 🎯 Example Usage
  Hello dear, Welcome to To_Do list application.
+ 
  With this app, you can organize your tasks.
+ 
 What do you want?
+
 1.add task
+
 2.remove task
+
 3.show task
+
 4.exit app
 
 ## 🌱 Learning Goals
