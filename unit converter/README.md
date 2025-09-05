@@ -33,5 +33,7 @@ python3 converter.py
  4. Meters to Kilometers
  5. Exit
 Enter your choice (just number): 1
+
 Enter your number: 25
+
 The result is 77.0 F.
