@@ -16,8 +16,11 @@ pip install -r requirements.txt
 
 ## Example:
 Enter the URL: https://example.com
+
 Enter the filename: my_qr.png
+
 The QR code will be saved in the current directory:
+
 QR code saved as my_qr.png
 
 ## Example Output
