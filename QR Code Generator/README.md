@@ -1,5 +1,6 @@
 ## QR Code Generator
 A simple Python project to generate QR codes from any URL.
+
 This program takes a URL and a filename as input, then generates a QR code and saves it as an image file.
 
 ## Features
