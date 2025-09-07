@@ -10,7 +10,9 @@ Uses a virtual environment and requirements.txt for dependencies.
 
 ## Requirements
 This project uses a Python virtual environment with dependencies listed in requirements.txt.
+
 Make sure you have Python 3.8+ installed.
+
 Install dependencies:
 
 pip install -r requirements.txt
