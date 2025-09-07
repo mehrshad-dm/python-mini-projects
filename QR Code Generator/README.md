@@ -5,7 +5,9 @@ This program takes a URL and a filename as input, then generates a QR code and s
 ## Features
 Generate QR codes for any URL.
 Save the QR code as an image file (e.g., .png, .jpg).
+
 Customizable box_size and border in the code.
+
 Uses a virtual environment and requirements.txt for dependencies.
 
 ## Requirements
